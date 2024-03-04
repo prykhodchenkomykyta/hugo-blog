@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/authors/</loc>
     <lastmod>2024-03-03T20:35:25+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-03T20:35:25+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-03-03T20:35:25+01:00</lastmod>
   </url><url>
@@ -54,9 +57,6 @@
     <lastmod>2024-03-03T20:35:25+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/travel/</loc>
-    <lastmod>2024-03-03T20:35:25+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-03T20:35:25+01:00</lastmod>
   </url>
 </urlset>

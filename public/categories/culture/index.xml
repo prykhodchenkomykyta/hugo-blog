@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Culture on Блог</title>
+    <title>Culture on Blog</title>
     <link>http://localhost:1313/categories/culture/</link>
-    <description>Recent content in Culture on Блог</description>
+    <description>Recent content in Culture on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 20:35:25 +0100</lastBuildDate>
