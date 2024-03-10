@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on Blog</title>
-    <link>//localhost:1313/categories/general/</link>
+    <link>http://prykhodchenkomykyta.github.io/categories/general/</link>
     <description>Recent content in General on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 20:35:25 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://prykhodchenkomykyta.github.io/categories/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fifth Post</title>
-      <link>//localhost:1313/my-fifth-post/</link>
+      <link>http://prykhodchenkomykyta.github.io/my-fifth-post/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>//localhost:1313/my-fifth-post/</guid>
+      <guid>http://prykhodchenkomykyta.github.io/my-fifth-post/</guid>
       <description>Test Content</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>//localhost:1313/my-first-post/</link>
+      <link>http://prykhodchenkomykyta.github.io/my-first-post/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>//localhost:1313/my-first-post/</guid>
+      <guid>http://prykhodchenkomykyta.github.io/my-first-post/</guid>
       <description>Test Content</description>
     </item>
     <item>
       <title>My Fourth Post</title>
-      <link>//localhost:1313/my-fourth-post/</link>
+      <link>http://prykhodchenkomykyta.github.io/my-fourth-post/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>//localhost:1313/my-fourth-post/</guid>
+      <guid>http://prykhodchenkomykyta.github.io/my-fourth-post/</guid>
       <description>Test Content</description>
     </item>
     <item>
       <title>My Second Post</title>
-      <link>//localhost:1313/my-second-post/</link>
+      <link>http://prykhodchenkomykyta.github.io/my-second-post/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>//localhost:1313/my-second-post/</guid>
+      <guid>http://prykhodchenkomykyta.github.io/my-second-post/</guid>
       <description>Test Content</description>
     </item>
     <item>
       <title>My Third Post</title>
-      <link>//localhost:1313/my-third-post/</link>
+      <link>http://prykhodchenkomykyta.github.io/my-third-post/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>//localhost:1313/my-third-post/</guid>
+      <guid>http://prykhodchenkomykyta.github.io/my-third-post/</guid>
       <description>Test Content</description>
     </item>
   </channel>
