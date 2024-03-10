@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Html on Blog</title>
-    <link>https://prykhodchenkomykyta.github.io/categories/html/</link>
+    <link>//localhost:1313/categories/html/</link>
     <description>Recent content in Html on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 20:35:25 +0100</lastBuildDate>
-    <atom:link href="https://prykhodchenkomykyta.github.io/categories/html/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fourth Post</title>
-      <link>https://prykhodchenkomykyta.github.io/my-fourth-post/</link>
+      <link>//localhost:1313/my-fourth-post/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/my-fourth-post/</guid>
+      <guid>//localhost:1313/my-fourth-post/</guid>
       <description>Test Content</description>
     </item>
   </channel>

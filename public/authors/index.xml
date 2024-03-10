@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Blog</title>
-    <link>https://prykhodchenkomykyta.github.io/authors/</link>
+    <link>//localhost:1313/authors/</link>
     <description>Recent content in Authors on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 20:35:25 +0100</lastBuildDate>
-    <atom:link href="https://prykhodchenkomykyta.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jon Snow</title>
-      <link>https://prykhodchenkomykyta.github.io/authors/jon-snow/</link>
+      <link>//localhost:1313/authors/jon-snow/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/authors/jon-snow/</guid>
+      <guid>//localhost:1313/authors/jon-snow/</guid>
       <description></description>
     </item>
     <item>
       <title>Jon Water</title>
-      <link>https://prykhodchenkomykyta.github.io/authors/jon-water/</link>
+      <link>//localhost:1313/authors/jon-water/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/authors/jon-water/</guid>
+      <guid>//localhost:1313/authors/jon-water/</guid>
       <description></description>
     </item>
     <item>
       <title>Nick</title>
-      <link>https://prykhodchenkomykyta.github.io/authors/nick/</link>
+      <link>//localhost:1313/authors/nick/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/authors/nick/</guid>
+      <guid>//localhost:1313/authors/nick/</guid>
       <description></description>
     </item>
   </channel>

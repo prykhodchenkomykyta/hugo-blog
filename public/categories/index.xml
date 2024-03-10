@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blog</title>
-    <link>https://prykhodchenkomykyta.github.io/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 20:35:25 +0100</lastBuildDate>
-    <atom:link href="https://prykhodchenkomykyta.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding</title>
-      <link>https://prykhodchenkomykyta.github.io/categories/coding/</link>
+      <link>//localhost:1313/categories/coding/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/categories/coding/</guid>
+      <guid>//localhost:1313/categories/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>https://prykhodchenkomykyta.github.io/categories/css/</link>
+      <link>//localhost:1313/categories/css/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/categories/css/</guid>
+      <guid>//localhost:1313/categories/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>https://prykhodchenkomykyta.github.io/categories/culture/</link>
+      <link>//localhost:1313/categories/culture/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/categories/culture/</guid>
+      <guid>//localhost:1313/categories/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>General</title>
-      <link>https://prykhodchenkomykyta.github.io/categories/general/</link>
+      <link>//localhost:1313/categories/general/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/categories/general/</guid>
+      <guid>//localhost:1313/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://prykhodchenkomykyta.github.io/categories/html/</link>
+      <link>//localhost:1313/categories/html/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/categories/html/</guid>
+      <guid>//localhost:1313/categories/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Js</title>
-      <link>https://prykhodchenkomykyta.github.io/categories/js/</link>
+      <link>//localhost:1313/categories/js/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/categories/js/</guid>
+      <guid>//localhost:1313/categories/js/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>https://prykhodchenkomykyta.github.io/categories/life/</link>
+      <link>//localhost:1313/categories/life/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/categories/life/</guid>
+      <guid>//localhost:1313/categories/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>https://prykhodchenkomykyta.github.io/categories/travel/</link>
+      <link>//localhost:1313/categories/travel/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>https://prykhodchenkomykyta.github.io/categories/travel/</guid>
+      <guid>//localhost:1313/categories/travel/</guid>
       <description></description>
     </item>
   </channel>
