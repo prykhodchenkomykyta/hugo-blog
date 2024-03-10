@@ -1,4 +1,4 @@
-baseURL = 'https://prykhodchenkomykyta.github.io/'
+baseURL = 'https://prykhodchenkomykyta.github.io/hugo-blog/'
 languageCode = 'en-us'
 title = 'Blog'
 
