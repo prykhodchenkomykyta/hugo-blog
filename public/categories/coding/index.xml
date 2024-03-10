@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on Blog</title>
-    <link>http://prykhodchenkomykyta.github.io/categories/coding/</link>
+    <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/coding/</link>
     <description>Recent content in Coding on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 20:35:25 +0100</lastBuildDate>
-    <atom:link href="http://prykhodchenkomykyta.github.io/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://prykhodchenkomykyta.github.io/hugo-blog/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fifth Post</title>
-      <link>http://prykhodchenkomykyta.github.io/my-fifth-post/</link>
+      <link>http://prykhodchenkomykyta.github.io/hugo-blog/my-fifth-post/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>http://prykhodchenkomykyta.github.io/my-fifth-post/</guid>
+      <guid>http://prykhodchenkomykyta.github.io/hugo-blog/my-fifth-post/</guid>
       <description>Test Content</description>
     </item>
   </channel>
