@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blog</title>
-    <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/</link>
+    <link>http://localhost:1313/hugo-blog/categories/</link>
     <description>Recent content in Categories on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 20:35:25 +0100</lastBuildDate>
-    <atom:link href="http://prykhodchenkomykyta.github.io/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding</title>
-      <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/coding/</link>
+      <link>http://localhost:1313/hugo-blog/categories/coding/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>http://prykhodchenkomykyta.github.io/hugo-blog/categories/coding/</guid>
+      <guid>http://localhost:1313/hugo-blog/categories/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/css/</link>
+      <link>http://localhost:1313/hugo-blog/categories/css/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>http://prykhodchenkomykyta.github.io/hugo-blog/categories/css/</guid>
+      <guid>http://localhost:1313/hugo-blog/categories/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Culture</title>
-      <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/culture/</link>
+      <link>http://localhost:1313/hugo-blog/categories/culture/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>http://prykhodchenkomykyta.github.io/hugo-blog/categories/culture/</guid>
+      <guid>http://localhost:1313/hugo-blog/categories/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>General</title>
-      <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/general/</link>
+      <link>http://localhost:1313/hugo-blog/categories/general/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>http://prykhodchenkomykyta.github.io/hugo-blog/categories/general/</guid>
+      <guid>http://localhost:1313/hugo-blog/categories/general/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/html/</link>
+      <link>http://localhost:1313/hugo-blog/categories/html/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>http://prykhodchenkomykyta.github.io/hugo-blog/categories/html/</guid>
+      <guid>http://localhost:1313/hugo-blog/categories/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Js</title>
-      <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/js/</link>
+      <link>http://localhost:1313/hugo-blog/categories/js/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>http://prykhodchenkomykyta.github.io/hugo-blog/categories/js/</guid>
+      <guid>http://localhost:1313/hugo-blog/categories/js/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/life/</link>
+      <link>http://localhost:1313/hugo-blog/categories/life/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>http://prykhodchenkomykyta.github.io/hugo-blog/categories/life/</guid>
+      <guid>http://localhost:1313/hugo-blog/categories/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/travel/</link>
+      <link>http://localhost:1313/hugo-blog/categories/travel/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>http://prykhodchenkomykyta.github.io/hugo-blog/categories/travel/</guid>
+      <guid>http://localhost:1313/hugo-blog/categories/travel/</guid>
       <description></description>
     </item>
   </channel>

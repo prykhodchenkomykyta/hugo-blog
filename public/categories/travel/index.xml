@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Blog</title>
-    <link>http://prykhodchenkomykyta.github.io/hugo-blog/categories/travel/</link>
+    <link>http://localhost:1313/hugo-blog/categories/travel/</link>
     <description>Recent content in Travel on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 20:35:25 +0100</lastBuildDate>
-    <atom:link href="http://prykhodchenkomykyta.github.io/hugo-blog/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-blog/categories/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://prykhodchenkomykyta.github.io/hugo-blog/my-first-post/</link>
+      <link>http://localhost:1313/hugo-blog/my-first-post/</link>
       <pubDate>Sun, 03 Mar 2024 20:35:25 +0100</pubDate>
-      <guid>http://prykhodchenkomykyta.github.io/hugo-blog/my-first-post/</guid>
+      <guid>http://localhost:1313/hugo-blog/my-first-post/</guid>
       <description>Test Content</description>
     </item>
   </channel>
